@@ -296,6 +296,7 @@ footer h4 {
   font-family: "Roboto Condensed", sans-serif;
   font-size: 22px;
   font-weight: normal;
+  color:white;
 }
 footer h4::after {
   display: block;
