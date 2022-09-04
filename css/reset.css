@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+ul,
+li {
+  list-style: none;
+}
+a {
+  text-decoration: none;
+  color: inherit; /*  상위 요소의 색상을 상속받는다?*/
+}
+img {
+  vertical-align: middle;
+}
